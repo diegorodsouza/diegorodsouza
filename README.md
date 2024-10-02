@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
 ## Olá, prazer, me chamo Diego!
 
 💻 Desenvolvedor com mais de 8 anos de experiência e com enfoque especial em gestão de equipes e clientes.
@@ -62,6 +64,8 @@
   <img align="center" alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 </div><br/>
 
+[![Visits Badge](https://badges.pufler.dev/visits/diegorodsouza/diegorodsouza)](https://josedromero.com)
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 
