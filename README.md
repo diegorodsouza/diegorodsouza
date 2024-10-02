@@ -45,9 +45,9 @@
 
 <hr/>
 
-### Tecnologias com as quais já trabalhei
+### Tecnologias com as quais já trabalhei recentemente
 
-<div style="display: inline_block">
+<div style="display: inline_block;">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img align="center" alt="r" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
