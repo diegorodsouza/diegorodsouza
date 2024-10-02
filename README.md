@@ -1,5 +1,7 @@
 ## Olá, prazer, me chamo Diego!
 
+💻 Desenvolvedor com mais de 8 anos de experiência e com enfoque especial em gestão de equipes e clientes.
+
 ### Entre em contato comigo
 
 <div style="display: inline_block">
@@ -38,4 +40,3 @@
   <img align="center" alt="digitalocean" src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" />
 </div><br/>
 
-💻 Desenvolvedor com mais de 8 anos de experiência e com enfoque especial em gestão de equipes e clientes.
