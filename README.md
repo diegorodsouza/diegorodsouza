@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7308EF&height=120&section=header"/>
 
 ## Olá, prazer, me chamo Diego!
 
@@ -66,6 +66,6 @@
 
 <!-- [![Visits Badge](https://badges.pufler.dev/visits/diegorodsouza/diegorodsouza)](https://josedromero.com) -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7308EF&height=120&section=footer"/>
 
 
