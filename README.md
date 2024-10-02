@@ -64,7 +64,7 @@
   <img align="center" alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 </div><br/>
 
-<!-- [![Visits Badge](https://badges.pufler.dev/visits/diegorodsouza/diegorodsouza)](https://josedromero.com) -->
+![Visits Badge](https://badges.pufler.dev/visits/diegorodsouza/diegorodsouza)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7308EF&height=120&section=footer"/>
 
